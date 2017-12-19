@@ -1,0 +1,99 @@
+Name,Group,Label
+G1.Ah,Alpine Paleosol,Alpine Paleosol 1
+G1.Bw,Alpine Paleosol,Alpine Paleosol 2
+G1.Cox,Alpine Paleosol,Alpine Paleosol 3
+G11.Ah,Alpine Paleosol,Alpine Paleosol 4
+G11.Bw,Alpine Paleosol,Alpine Paleosol 5
+G11.Cox,Alpine Paleosol,Alpine Paleosol 6
+G2.Ah,Alpine Paleosol,Alpine Paleosol 7
+G2.Bw,Alpine Paleosol,Alpine Paleosol 8
+G2.Cox,Alpine Paleosol,Alpine Paleosol 9
+G3a.Ah,Alpine Paleosol,Alpine Paleosol 10
+G3a.Bw,Alpine Paleosol,Alpine Paleosol 11
+G3a.Cox,Alpine Paleosol,Alpine Paleosol 12
+G9.Ah,Alpine Paleosol,Alpine Paleosol 13
+G9.Bw,Alpine Paleosol,Alpine Paleosol 14
+G9.Cox,Alpine Paleosol,Alpine Paleosol 15
+Ah.1.1,German Forest,German forest 1
+Ah.1.2,German Forest,German forest 2
+Ah.2.1,German Forest,German forest 3
+Ah.2.2,German Forest,German forest 4
+II.P.1.1,German Forest,German forest 5
+II.P.1.2,German Forest,German forest 6
+II.P.2.1,German Forest,German forest 7
+II.P.2.2,German Forest,German forest 8
+Of.1.1,German Forest,German forest 9
+Of.1.2,German Forest,German forest 10
+Of.2.1,German Forest,German forest 11
+Of.2.2,German Forest,German forest 12
+arctic_tundra_TL1,Arctic tundra,Arctic tundra
+boreal_forest_BZ1,Boreal forest,Boreal forest
+hot_desert_MD3,Hot desert,Hot desert
+hot_desert_SF2,Hot desert,Hot desert 1
+hot_desert_SV1,Hot desert,Hot desert 2
+polar_desert_EB017,Polar desert,Polar desert 1
+polar_desert_EB019,Polar desert,Polar desert 2
+polar_desert_EB020,Polar desert,Polar desert 3
+polar_desert_EB021,Polar desert,Polar desert 4
+polar_desert_EB024,Polar desert,Polar desert 5
+polar_desert_EB026,Polar desert,Polar desert 6
+temeprate_coniferous_forest_DF1,Temperate forest,Temperate forest 1
+temeprate_deciduous_forest_CL1,Temperate forest,Temperate forest 2
+temeprate_grassland_KP1,Temperate grassland,Temperate grassland
+X2012_10_Soy_No,Agricultural ,Agricultural Soil 1
+X2012_11_Corn_Yes,Agricultural ,Agricultural Soil 2
+X2012_12_Soy_Yes,Agricultural ,Agricultural Soil 3
+X2012_13_Corn_Yes,Agricultural ,Agricultural Soil 4
+X2012_14_Soy_Yes,Agricultural ,Agricultural Soil 5
+X2012_15_Corn_Yes,Agricultural ,Agricultural Soil 6
+X2012_16_soy_Yes,Agricultural ,Agricultural Soil 7
+X2012_17_Corn_Yes,Agricultural ,Agricultural Soil 8
+X2012_1_corn_No,Agricultural ,Agricultural Soil 11
+X2012_20_Soy_Yes,Agricultural ,Agricultural Soil 12
+X2012_2_Soy_No,Agricultural ,Agricultural Soil 13
+X2012_3_corn_No,Agricultural ,Agricultural Soil 14
+X2012_4_Soy_No,Agricultural ,Agricultural Soil 15
+X2012_5_Corn_No,Agricultural ,Agricultural Soil 16
+X2012_6_Soy_No,Agricultural ,Agricultural Soil 17
+X2012_7_corn_No,Agricultural ,Agricultural Soil 18
+X2012_8_Soy_No,Agricultural ,Agricultural Soil 19
+X2012_9_Corn_No,Agricultural ,Agricultural Soil 20
+X2013_11_Soy_Yes,Agricultural ,Agricultural Soil 21
+X2013_13_Corn_Yes,Agricultural ,Agricultural Soil 23
+X2013_14_Corn_Yes,Agricultural ,Agricultural Soil 24
+X2013_15_Soy_Yes,Agricultural ,Agricultural Soil 25
+X2013_16_Corn_Yes,Agricultural ,Agricultural Soil 26
+X2013_17_Soy_Yes,Agricultural ,Agricultural Soil 27
+X2013_18_Corn_Yes,Agricultural ,Agricultural Soil 28
+X2013_19_Soy_Yes,Agricultural ,Agricultural Soil 29
+X2013_1_Soy_No,Agricultural ,Agricultural Soil 30
+X2013_20_Corn_Yes,Agricultural ,Agricultural Soil 31
+X2013_23_forest,Agricultural ,Agricultural Soil 32
+X2013_24_forest,Agricultural ,Agricultural Soil 33
+X2013_2_Corn_No,Agricultural ,Agricultural Soil 34
+X2013_5_Soy_No,Agricultural ,Agricultural Soil 36
+X2013_6_Corn_No,Agricultural ,Agricultural Soil 37
+X2013_7_Soy_No,Agricultural ,Agricultural Soil 38
+X2013_8_Corn_No,Agricultural ,Agricultural Soil 39
+X2013_9_Soy_No,Agricultural ,Agricultural Soil 40
+ERR1104480.fastq.gzaligned,Agricultural ,Agricultural Soil 41
+ERR1104481.fastq.gzaligned,Agricultural ,Agricultural Soil 42
+ERR476938_1.fastq.gzaligned,Acid sulphate soil,Acid sulphate soil 1
+ERR476939_1.fastq.gzaligned,Acid sulphate soil,Acid sulphate soil 2
+ERR476940_1.fastq.gzaligned,Acid sulphate soil,Acid sulphate soil 3
+ERR476941_1.fastq.gzaligned,Acid sulphate soil,Acid sulphate soil 4
+ERR476942_1.fastq.gzaligned,Acid sulphate soil,Acid sulphate soil 5
+ERR476943_1.fastq.gzaligned,Acid sulphate soil,Acid sulphate soil 6
+ERR476944_1.fastq.gzaligned,Acid sulphate soil,Acid sulphate soil 7
+ERR476945_1.fastq.gzaligned,Acid sulphate soil,Acid sulphate soil 8
+ERR476946_1.fastq.gzaligned,Acid sulphate soil,Acid sulphate soil 9
+ERR481108_1.fastq.gzaligned,Acid sulphate soil,Australian Grassland 10
+ERR481109_1.fastq.gzaligned,Acid sulphate soil,Australian Grassland 11
+ERR481110_1.fastq.gzaligned,Acid sulphate soil,Australian Grassland 12
+ERR481111_1.fastq.gzaligned,Acid sulphate soil,Australian Grassland 13
+ERR481112_1.fastq.gzaligned,Acid sulphate soil,Australian Grassland 14
+ERR515173_1.fastq.gzaligned,Acid sulphate soil,Australian Grassland 15
+ERR515174_1.fastq.gzaligned,Acid sulphate soil,Australian Grassland 16
+ERR515176_1.fastq.gzaligned,Acid sulphate soil,Australian Grassland 17
+ERR515177_1.fastq.gzaligned,Acid sulphate soil,Australian Grassland 18
+ERR515178_1.fastq.gzaligned,Acid sulphate soil,Australian Grassland 19
