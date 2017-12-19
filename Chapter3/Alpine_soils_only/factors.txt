@@ -1,0 +1,16 @@
+Sample_name	Site	Horizon	Depth (Cm)
+G11.Ah	G11	Ah	7
+G11.Bw	G11	Bw	21.5
+G11.Cox	G11	Cox	35
+G1.Ah	G1	Ah	7.5
+G1.Bw	G1	Bw	22
+G1.Cox	G1	Cox	42
+G2.Ah	G2	Ah	8
+G2.Bw	G2	Bw	23
+G2.Cox	G2	Cox	36
+G3a.Ah	G3a	Ah	6.5
+G3a.Bw	G3a	Bw	19
+G3a.Cox	G3a	Cox	32
+G9.Ah	G9	Ah	6
+G9.Bw	G9	Bw	20
+G9.Cox	G9	Cox	34.5
