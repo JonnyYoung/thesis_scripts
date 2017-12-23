@@ -1,0 +1,1424 @@
+L1	L2	KO
+01_Fermentation	Bifidobacterium shunt	K00016
+01_Fermentation	Bifidobacterium shunt	K00134
+01_Fermentation	Bifidobacterium shunt	K00603
+01_Fermentation	Bifidobacterium shunt	K13990
+01_Fermentation	Bifidobacterium shunt	K00918
+01_Fermentation	Bifidobacterium shunt	K00872
+01_Fermentation	Bifidobacterium shunt	K10705
+01_Fermentation	Bifidobacterium shunt	K06040
+01_Fermentation	Bifidobacterium shunt	K03416
+01_Fermentation	Bifidobacterium shunt	K08074
+01_Fermentation	Bifidobacterium shunt	K02203
+01_Fermentation	Bifidobacterium shunt	K01807
+01_Fermentation	Bifidobacterium shunt	K13598
+01_Fermentation	Bifidobacterium shunt	K05715
+01_Fermentation	Bifidobacterium shunt	K01624
+01_Fermentation	Bifidobacterium shunt	K08302
+01_Fermentation	Bifidobacterium shunt	K13830
+01_Fermentation	Bifidobacterium shunt	K01776
+01_Fermentation	Bifidobacterium shunt	K13831
+01_Fermentation	Bifidobacterium shunt	K01808
+01_Fermentation	Bifidobacterium shunt	K07514
+01_Fermentation	Bifidobacterium shunt	K01805
+01_Fermentation	Bifidobacterium shunt	K01825
+01_Fermentation	Acetylene degradation	K00001
+01_Fermentation	Acetylene degradation	K00121
+01_Fermentation	Acetylene degradation	K04072
+01_Fermentation	Acetylene degradation	K11440
+01_Fermentation	Acetylene degradation	K13951
+01_Fermentation	Acetylene degradation	K13952
+01_Fermentation	Acetylene degradation	K13953
+01_Fermentation	Acetylene degradation	K13954
+01_Fermentation	Acetylene degradation	K13980
+01_Fermentation	Acetylene degradation	K04073
+01_Fermentation	Acetylene degradation	K00132
+01_Fermentation	Acetylene degradation	K00640
+01_Fermentation	Acetylene degradation	K13598
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K00109
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K00232
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K03340
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K01039
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K14472
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K01040
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K01026
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K13497
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K13501
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K13503
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K02372
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K02509
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K05554
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K07534
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K07546
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K08299
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K09483
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K10703
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K11336
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K00121
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K04072
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K11440
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K13951
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K13952
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K13953
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K13954
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K13980
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K03778
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K01610
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)	K01658
+01_Fermentation	Heterolactic fermentation	K00001
+01_Fermentation	Heterolactic fermentation	K03778
+01_Fermentation	Heterolactic fermentation	K04073
+01_Fermentation	Heterolactic fermentation	K04072
+01_Fermentation	Heterolactic fermentation	K08074
+01_Fermentation	Heterolactic fermentation	K02203
+01_Fermentation	Heterolactic fermentation	K14075
+01_Fermentation	Heterolactic fermentation	K01807
+01_Fermentation	Heterolactic fermentation	K07514
+01_Fermentation	Heterolactic fermentation	K14076
+01_Fermentation	Heterolactic fermentation	K01808
+01_Fermentation	Heterolactic fermentation	K10705
+01_Fermentation	Heterolactic fermentation	K00016
+01_Fermentation	Heterolactic fermentation	K03777
+01_Fermentation	Heterolactic fermentation	K00033
+01_Fermentation	Heterolactic fermentation	K00036
+01_Fermentation	Heterolactic fermentation	K00132
+01_Fermentation	Heterolactic fermentation	K00134
+01_Fermentation	Heterolactic fermentation	K00640
+01_Fermentation	Heterolactic fermentation	K00918
+01_Fermentation	Heterolactic fermentation	K00865
+01_Fermentation	Heterolactic fermentation	K00872
+01_Fermentation	Heterolactic fermentation	K05715
+01_Fermentation	Heterolactic fermentation	K14074
+01_Fermentation	Heterolactic fermentation	K08302
+01_Fermentation	Heterolactic fermentation	K13830
+01_Fermentation	Heterolactic fermentation	K01776
+01_Fermentation	Heterolactic fermentation	K01805
+01_Fermentation	Heterolactic fermentation	K01825
+01_Fermentation	Heterolactic fermentation	K00232
+01_Fermentation	Lysine fermentation to acetate and butyrate	K00640
+01_Fermentation	Lysine fermentation to acetate and butyrate	K00625
+01_Fermentation	Lysine fermentation to acetate and butyrate	K13598
+01_Fermentation	Lysine fermentation to acetate and butyrate	K01039
+01_Fermentation	Lysine fermentation to acetate and butyrate	K03431
+01_Fermentation	Lysine fermentation to acetate and butyrate	K01835
+01_Fermentation	Lysine fermentation to acetate and butyrate	K00001
+01_Fermentation	Mixed acid fermentation	K03777
+01_Fermentation	Mixed acid fermentation	K00024
+01_Fermentation	Mixed acid fermentation	K00121
+01_Fermentation	Mixed acid fermentation	K03778
+01_Fermentation	Mixed acid fermentation	K00025
+01_Fermentation	Mixed acid fermentation	K00026
+01_Fermentation	Mixed acid fermentation	K11440
+01_Fermentation	Mixed acid fermentation	K13951
+01_Fermentation	Mixed acid fermentation	K13952
+01_Fermentation	Mixed acid fermentation	K13953
+01_Fermentation	Mixed acid fermentation	K13954
+01_Fermentation	Mixed acid fermentation	K13980
+01_Fermentation	Mixed acid fermentation	K00031
+01_Fermentation	Mixed acid fermentation	K00132
+01_Fermentation	Mixed acid fermentation	K04072
+01_Fermentation	Mixed acid fermentation	K04073
+01_Fermentation	Mixed acid fermentation	K02203
+01_Fermentation	Mixed acid fermentation	K02472
+01_Fermentation	Mixed acid fermentation	K02474
+01_Fermentation	Mixed acid fermentation	K05556
+01_Fermentation	Mixed acid fermentation	K06607
+01_Fermentation	Mixed acid fermentation	K07535
+01_Fermentation	Mixed acid fermentation	K07538
+01_Fermentation	Mixed acid fermentation	K08322
+01_Fermentation	Mixed acid fermentation	K10251
+01_Fermentation	Mixed acid fermentation	K10978
+01_Fermentation	Mixed acid fermentation	K11150
+01_Fermentation	Mixed acid fermentation	K11151
+01_Fermentation	Mixed acid fermentation	K11152
+01_Fermentation	Mixed acid fermentation	K11153
+01_Fermentation	Mixed acid fermentation	K11154
+01_Fermentation	Mixed acid fermentation	K11161
+01_Fermentation	Mixed acid fermentation	K11162
+01_Fermentation	Mixed acid fermentation	K11539
+01_Fermentation	Mixed acid fermentation	K12420
+01_Fermentation	Mixed acid fermentation	K12451
+01_Fermentation	Mixed acid fermentation	K13015
+01_Fermentation	Mixed acid fermentation	K13016
+01_Fermentation	Mixed acid fermentation	K13020
+01_Fermentation	Mixed acid fermentation	K13548
+01_Fermentation	Mixed acid fermentation	K13574
+01_Fermentation	Mixed acid fermentation	K14248
+01_Fermentation	Mixed acid fermentation	K14465
+01_Fermentation	Mixed acid fermentation	K14633
+01_Fermentation	Mixed acid fermentation	K13767
+01_Fermentation	Mixed acid fermentation	K06001
+01_Fermentation	Mixed acid fermentation	K06001
+01_Fermentation	Mixed acid fermentation	K01089
+01_Fermentation	Mixed acid fermentation	K01693
+01_Fermentation	Mixed acid fermentation	K00634
+01_Fermentation	Mixed acid fermentation	K00640
+01_Fermentation	Mixed acid fermentation	K00872
+01_Fermentation	Mixed acid fermentation	K13598
+01_Fermentation	Mixed acid fermentation	K01593
+01_Fermentation	Mixed acid fermentation	K10527
+01_Fermentation	Mixed acid fermentation	K01696
+01_Fermentation	Mixed acid fermentation	K01696
+01_Fermentation	Mixed acid fermentation	K00061
+01_Fermentation	Pyruvate fermentation to butanol	K00061
+01_Fermentation	Pyruvate fermentation to butanol	K02472
+01_Fermentation	Pyruvate fermentation to butanol	K02474
+01_Fermentation	Pyruvate fermentation to butanol	K05556
+01_Fermentation	Pyruvate fermentation to butanol	K06607
+01_Fermentation	Pyruvate fermentation to butanol	K07535
+01_Fermentation	Pyruvate fermentation to butanol	K07538
+01_Fermentation	Pyruvate fermentation to butanol	K08322
+01_Fermentation	Pyruvate fermentation to butanol	K10251
+01_Fermentation	Pyruvate fermentation to butanol	K10978
+01_Fermentation	Pyruvate fermentation to butanol	K11150
+01_Fermentation	Pyruvate fermentation to butanol	K11151
+01_Fermentation	Pyruvate fermentation to butanol	K11152
+01_Fermentation	Pyruvate fermentation to butanol	K11153
+01_Fermentation	Pyruvate fermentation to butanol	K11154
+01_Fermentation	Pyruvate fermentation to butanol	K11161
+01_Fermentation	Pyruvate fermentation to butanol	K11162
+01_Fermentation	Pyruvate fermentation to butanol	K11539
+01_Fermentation	Pyruvate fermentation to butanol	K12420
+01_Fermentation	Pyruvate fermentation to butanol	K12451
+01_Fermentation	Pyruvate fermentation to butanol	K13015
+01_Fermentation	Pyruvate fermentation to butanol	K13016
+01_Fermentation	Pyruvate fermentation to butanol	K13020
+01_Fermentation	Pyruvate fermentation to butanol	K13548
+01_Fermentation	Pyruvate fermentation to butanol	K13574
+01_Fermentation	Pyruvate fermentation to butanol	K14248
+01_Fermentation	Pyruvate fermentation to butanol	K14465
+01_Fermentation	Pyruvate fermentation to butanol	K14633
+01_Fermentation	Pyruvate fermentation to butanol	K01782
+01_Fermentation	Pyruvate fermentation to butanol	K01825
+01_Fermentation	Pyruvate fermentation to butanol	K07514
+01_Fermentation	Pyruvate fermentation to butanol	K07516
+01_Fermentation	Pyruvate fermentation to butanol	K07547
+01_Fermentation	Pyruvate fermentation to butanol	K07548
+01_Fermentation	Pyruvate fermentation to butanol	K08683
+01_Fermentation	Pyruvate fermentation to butanol	K00170
+01_Fermentation	Pyruvate fermentation to butanol	K00171
+01_Fermentation	Pyruvate fermentation to butanol	K08074
+01_Fermentation	Pyruvate fermentation to butanol	K13497
+01_Fermentation	Pyruvate fermentation to butanol	K13501
+01_Fermentation	Pyruvate fermentation to butanol	K13503
+01_Fermentation	Pyruvate fermentation to butanol	K02372
+01_Fermentation	Pyruvate fermentation to butanol	K02509
+01_Fermentation	Pyruvate fermentation to butanol	K05554
+01_Fermentation	Pyruvate fermentation to butanol	K07534
+01_Fermentation	Pyruvate fermentation to butanol	K07546
+01_Fermentation	Pyruvate fermentation to butanol	K08299
+01_Fermentation	Pyruvate fermentation to butanol	K09483
+01_Fermentation	Pyruvate fermentation to butanol	K10703
+01_Fermentation	Pyruvate fermentation to butanol	K11336
+01_Fermentation	Pyruvate fermentation to butanol	K10527
+01_Fermentation	Pyruvate fermentation to butanol	K12405
+01_Fermentation	Pyruvate fermentation to butanol	K00169
+01_Fermentation	Pyruvate fermentation to butanol	K00022
+01_Fermentation	Pyruvate fermentation to butanol	K14085
+01_Fermentation	Pyruvate fermentation to butanol	K00232
+01_Fermentation	Pyruvate fermentation to butanol	K00625
+01_Fermentation	Pyruvate fermentation to butanol	K01658
+01_Fermentation	Pyruvate fermentation to butanol	K00918
+01_Fermentation	Homolactic fermentation	K01805
+01_Fermentation	Homolactic fermentation	K11725
+01_Fermentation	Homolactic fermentation	K01807
+01_Fermentation	Homolactic fermentation	K12977
+01_Fermentation	Homolactic fermentation	K01808
+01_Fermentation	Homolactic fermentation	K12978
+01_Fermentation	Homolactic fermentation	K13555
+01_Fermentation	Homolactic fermentation	K01622
+01_Fermentation	Homolactic fermentation	K11645
+01_Fermentation	Homolactic fermentation	K11946
+01_Fermentation	Homolactic fermentation	K00844
+01_Fermentation	Homolactic fermentation	K11395
+01_Fermentation	Homolactic fermentation	K10705
+01_Fermentation	Homolactic fermentation	K07514
+01_Fermentation	Homolactic fermentation	K02203
+01_Fermentation	Homolactic fermentation	K08679
+01_Fermentation	Homolactic fermentation	K00134
+01_Fermentation	Homolactic fermentation	K05715
+01_Fermentation	Homolactic fermentation	K01825
+01_Fermentation	Homolactic fermentation	K13830
+01_Fermentation	Homolactic fermentation	K00963
+01_Fermentation	Homolactic fermentation	K00872
+01_Fermentation	Homolactic fermentation	K00016
+01_Fermentation	Homolactic fermentation	K00043
+01_Fermentation	Succinate fermentation to butyrate	K15038
+01_Fermentation	Succinate fermentation to butyrate	K00232
+01_Fermentation	Succinate fermentation to butyrate	K14472
+01_Fermentation	Succinate fermentation to butyrate	K13832
+01_Fermentation	Succinate fermentation to butyrate	K01026
+01_Fermentation	Succinate fermentation to butyrate	K01809
+01_Fermentation	Succinate fermentation to butyrate	K00023
+01_Fermentation	Acetyl-coA fermentation to butyrate II (clostridium)	K00232
+01_Fermentation	Acetyl-coA fermentation to butyrate II (clostridium)	K00625
+01_Fermentation	Acetyl-coA fermentation to butyrate II (clostridium)	K14472
+01_Fermentation	Acetyl-coA fermentation to butyrate II (clostridium)	K01026
+01_Fermentation	Acetyl-coA fermentation to butyrate II (clostridium)	K01713
+01_Fermentation	Acetyl-coA fermentation to butyrate II (clostridium)	K03366
+01_Fermentation	Acetyl-coA fermentation to butyrate II (clostridium)	K00004
+01_Fermentation	Acetoin biosynthesis	K13043
+01_Fermentation	Acetoin biosynthesis	K00615
+01_Fermentation	Acetoin biosynthesis	K00616
+01_Fermentation	Acetoin biosynthesis	K01656
+01_Fermentation	Acetoin biosynthesis	K13043
+01_Fermentation	Acetoin biosynthesis	K00615
+01_Fermentation	Acetoin biosynthesis	K00616
+01_Fermentation	Acetoin biosynthesis	K13982
+01_Fermentation	Acetoin biosynthesis	K00004
+01_Fermentation	Acetoin biosynthesis	K03366
+01_Fermentation	Acetoin biosynthesis	K00004
+01_Fermentation	Acetoin biosynthesis	K03366
+01_Fermentation	Acetoin biosynthesis	K00004
+01_Fermentation	Acetoin biosynthesis	K03366
+01_Fermentation	Acetoin biosynthesis	K13043
+01_Fermentation	Acetoin biosynthesis	K00615
+01_Fermentation	Acetoin biosynthesis	K00616
+01_Fermentation	Acetoin biosynthesis	K00004
+01_Fermentation	Acetoin biosynthesis	K01656
+01_Fermentation	Acetoin biosynthesis	K03366
+01_Fermentation	Acetoin biosynthesis	K00616
+01_Fermentation	Acetoin biosynthesis	K00615
+01_Fermentation	Acetoin biosynthesis	K13043
+01_Fermentation	Acetoin biosynthesis	K01656
+01_Fermentation	Acetoin biosynthesis	K00004
+01_Fermentation	Acetoin biosynthesis	K03366
+01_Fermentation	Acetoin biosynthesis	K00169
+01_Fermentation	Acetoin biosynthesis	K00170
+01_Fermentation	Acetoin biosynthesis	K00171
+01_Fermentation	Acetoin biosynthesis	K00004
+01_Fermentation	Acetoin biosynthesis	K14085
+01_Fermentation	Pyruvate Fermentation	K01905
+01_Fermentation	Pyruvate Fermentation	K00822
+01_Fermentation	Pyruvate Fermentation	K00823
+01_Fermentation	Pyruvate Fermentation	K00169
+01_Fermentation	Pyruvate Fermentation	K00170
+01_Fermentation	Pyruvate Fermentation	K00171
+01_Fermentation	Pyruvate Fermentation	K14085
+01_Fermentation	Pyruvate Fermentation	K00640
+01_Fermentation	Pyruvate Fermentation	K13598
+01_Fermentation	Pyruvate Fermentation	K00145
+01_Fermentation	Pyruvate Fermentation	K08324
+01_Fermentation	Pyruvate Fermentation	K09472
+01_Fermentation	Pyruvate Fermentation	K11947
+01_Fermentation	Pyruvate Fermentation	K12254
+01_Fermentation	Pyruvate Fermentation	K13356
+01_Fermentation	Pyruvate Fermentation	K00138
+01_Fermentation	Pyruvate Fermentation	K00016
+01_Fermentation	Pyruvate Fermentation	K14085
+01_Fermentation	Pyruvate Fermentation	K00169
+01_Fermentation	Pyruvate Fermentation	K00170
+01_Fermentation	Pyruvate Fermentation	K00171
+01_Fermentation	Pyruvate Fermentation	K00640
+01_Fermentation	Pyruvate Fermentation	K13598
+01_Fermentation	Pyruvate Fermentation	K00640
+01_Fermentation	Pyruvate Fermentation	K00145
+01_Fermentation	Pyruvate Fermentation	K08324
+01_Fermentation	Pyruvate Fermentation	K09472
+01_Fermentation	Pyruvate Fermentation	K11947
+01_Fermentation	Pyruvate Fermentation	K12254
+01_Fermentation	Pyruvate Fermentation	K13356
+01_Fermentation	Pyruvate Fermentation	K13598
+01_Fermentation	Pyruvate Fermentation	K00138
+01_Fermentation	Pyruvate Fermentation	K00640
+01_Fermentation	Pyruvate Fermentation	K00171
+01_Fermentation	Pyruvate Fermentation	K00170
+01_Fermentation	Pyruvate Fermentation	K00169
+01_Fermentation	Pyruvate Fermentation	K13598
+01_Fermentation	Pyruvate Fermentation	K14085
+01_Fermentation	Pyruvate Fermentation	K01905
+01_Fermentation	Pyruvate Fermentation	K00634
+01_Fermentation	Pyruvate Fermentation	K00640
+01_Fermentation	Pyruvate Fermentation	K13598
+01_Fermentation	Pyruvate Fermentation	K00145
+01_Fermentation	Pyruvate Fermentation	K08324
+01_Fermentation	Pyruvate Fermentation	K09472
+01_Fermentation	Pyruvate Fermentation	K11947
+01_Fermentation	Pyruvate Fermentation	K12254
+01_Fermentation	Pyruvate Fermentation	K13356
+01_Fermentation	Pyruvate Fermentation	K00138
+01_Fermentation	Pyruvate Fermentation	K01899
+01_Fermentation	Pyruvate Fermentation	K01900
+01_Fermentation	Pyruvate Fermentation	K01902
+01_Fermentation	Pyruvate Fermentation	K01903
+01_Fermentation	Pyruvate Fermentation	K00169
+01_Fermentation	Pyruvate Fermentation	K00170
+01_Fermentation	Pyruvate Fermentation	K00171
+01_Fermentation	Pyruvate Fermentation	K14085
+01_Fermentation	Pyruvate Fermentation	K01899
+01_Fermentation	Pyruvate Fermentation	K01900
+01_Fermentation	Pyruvate Fermentation	K01902
+01_Fermentation	Pyruvate Fermentation	K01903
+01_Fermentation	Pyruvate Fermentation	K00169
+01_Fermentation	Pyruvate Fermentation	K00170
+01_Fermentation	Pyruvate Fermentation	K00171
+01_Fermentation	Pyruvate Fermentation	K14085
+01_Fermentation	Pyruvate Fermentation	K00640
+01_Fermentation	Pyruvate Fermentation	K13598
+01_Fermentation	Pyruvate Fermentation	K00146
+01_Fermentation	Pyruvate Fermentation	K13982
+01_Fermentation	Pyruvate Fermentation	K00169
+01_Fermentation	Pyruvate Fermentation	K00170
+01_Fermentation	Pyruvate Fermentation	K00171
+01_Fermentation	Pyruvate Fermentation	K14085
+01_Fermentation	Pyruvate Fermentation	K00625
+01_Fermentation	Pyruvate Fermentation	K01001
+01_Fermentation	Pyruvate Fermentation	K01006
+01_Fermentation	Pyruvate Fermentation	K01007
+01_Fermentation	Pyruvate Fermentation	K01039
+01_Fermentation	Pyruvate Fermentation	K01573
+01_Fermentation	Pyruvate Fermentation	K01782
+01_Fermentation	Pyruvate Fermentation	K01825
+01_Fermentation	Pyruvate Fermentation	K07514
+01_Fermentation	Pyruvate Fermentation	K07516
+01_Fermentation	Pyruvate Fermentation	K07547
+01_Fermentation	Pyruvate Fermentation	K07548
+01_Fermentation	Pyruvate Fermentation	K08683
+01_Fermentation	Pyruvate Fermentation	K10527
+01_Fermentation	Pyruvate Fermentation	K12405
+01_Fermentation	Pyruvate Fermentation	K00022
+01_Fermentation	Pyruvate Fermentation	K14085
+01_Fermentation	Pyruvate Fermentation	K00169
+01_Fermentation	Pyruvate Fermentation	K00170
+01_Fermentation	Pyruvate Fermentation	K00171
+01_Fermentation	Pyruvate Fermentation	K00232
+01_Fermentation	Pyruvate Fermentation	K00190
+01_Fermentation	Pyruvate Fermentation	K00625
+01_Fermentation	Pyruvate Fermentation	K00928
+01_Fermentation	Pyruvate Fermentation	K01658
+01_Fermentation	Pyruvate Fermentation	K13497
+01_Fermentation	Pyruvate Fermentation	K13501
+01_Fermentation	Pyruvate Fermentation	K13503
+01_Fermentation	Pyruvate Fermentation	K02372
+01_Fermentation	Pyruvate Fermentation	K02509
+01_Fermentation	Pyruvate Fermentation	K05554
+01_Fermentation	Pyruvate Fermentation	K07534
+01_Fermentation	Pyruvate Fermentation	K07546
+01_Fermentation	Pyruvate Fermentation	K08299
+01_Fermentation	Pyruvate Fermentation	K09483
+01_Fermentation	Pyruvate Fermentation	K10703
+01_Fermentation	Pyruvate Fermentation	K11336
+01_Fermentation	Pyruvate Fermentation	K00121
+01_Fermentation	Pyruvate Fermentation	K04072
+01_Fermentation	Pyruvate Fermentation	K11440
+01_Fermentation	Pyruvate Fermentation	K13951
+01_Fermentation	Pyruvate Fermentation	K13952
+01_Fermentation	Pyruvate Fermentation	K13953
+01_Fermentation	Pyruvate Fermentation	K13954
+01_Fermentation	Pyruvate Fermentation	K13980
+01_Fermentation	Pyruvate Fermentation	K00001
+01_Fermentation	Pyruvate Fermentation	K00132
+01_Fermentation	Pyruvate Fermentation	K04073
+01_Fermentation	Pyruvate Fermentation	K00634
+01_Fermentation	Pyruvate Fermentation	K00121
+01_Fermentation	Pyruvate Fermentation	K04072
+01_Fermentation	Pyruvate Fermentation	K11440
+01_Fermentation	Pyruvate Fermentation	K13951
+01_Fermentation	Pyruvate Fermentation	K13952
+01_Fermentation	Pyruvate Fermentation	K13953
+01_Fermentation	Pyruvate Fermentation	K13954
+01_Fermentation	Pyruvate Fermentation	K13980
+01_Fermentation	Pyruvate Fermentation	K00001
+01_Fermentation	Pyruvate Fermentation	K13982
+01_Fermentation	Pyruvate Fermentation	K00121
+01_Fermentation	Pyruvate Fermentation	K04072
+01_Fermentation	Pyruvate Fermentation	K11440
+01_Fermentation	Pyruvate Fermentation	K13951
+01_Fermentation	Pyruvate Fermentation	K13952
+01_Fermentation	Pyruvate Fermentation	K13953
+01_Fermentation	Pyruvate Fermentation	K13954
+01_Fermentation	Pyruvate Fermentation	K13980
+01_Fermentation	Pyruvate Fermentation	K00001
+01_Fermentation	Pyruvate Fermentation	K00132
+01_Fermentation	Pyruvate Fermentation	K00169
+01_Fermentation	Pyruvate Fermentation	K04072
+01_Fermentation	Pyruvate Fermentation	K04073
+01_Fermentation	Pyruvate Fermentation	K00170
+01_Fermentation	Pyruvate Fermentation	K00171
+01_Fermentation	Pyruvate Fermentation	K14085
+01_Fermentation	Pyruvate Fermentation	K00016
+01_Fermentation	Pyruvate Fermentation	K00024
+01_Fermentation	Pyruvate Fermentation	K00025
+01_Fermentation	Pyruvate Fermentation	K00026
+01_Fermentation	Pyruvate Fermentation	K01006
+01_Fermentation	Pyruvate Fermentation	K01007
+01_Fermentation	Pyruvate Fermentation	K01089
+01_Fermentation	Pyruvate Fermentation	K13767
+01_Fermentation	Pyruvate Fermentation	K01693
+01_Fermentation	Pyruvate Fermentation	K01844
+01_Fermentation	Pyruvate Fermentation	K06044
+01_Fermentation	Pyruvate Fermentation	K05343
+01_Fermentation	Pyruvate Fermentation	K03778
+01_Fermentation	Pyruvate Fermentation	K00600
+01_Fermentation	Pyruvate Fermentation	K01001
+01_Fermentation	Pyruvate Fermentation	K10527
+01_Fermentation	Pyruvate Fermentation	K01786
+01_Fermentation	Pyruvate Fermentation	K01843
+01_Fermentation	Pyruvate Fermentation	K03777
+01_Fermentation	Pyruvate Fermentation	K00248
+01_Fermentation	Pyruvate Fermentation	K01001
+01_Fermentation	Pyruvate Fermentation	K01011
+01_Fermentation	Pyruvate Fermentation	K01006
+01_Fermentation	Pyruvate Fermentation	K08298
+01_Fermentation	Pyruvate Fermentation	K01007
+01_Fermentation	Pyruvate Fermentation	K14471
+01_Fermentation	Pyruvate Fermentation	K00169
+01_Fermentation	Pyruvate Fermentation	K00170
+01_Fermentation	Pyruvate Fermentation	K00171
+01_Fermentation	Pyruvate Fermentation	K14085
+01_Fermentation	Pyruvate Fermentation	K00132
+01_Fermentation	Pyruvate Fermentation	K04073
+01_Fermentation	Pyruvate Fermentation	K00121
+01_Fermentation	Pyruvate Fermentation	K04072
+01_Fermentation	Pyruvate Fermentation	K11440
+01_Fermentation	Pyruvate Fermentation	K13951
+01_Fermentation	Pyruvate Fermentation	K13952
+01_Fermentation	Pyruvate Fermentation	K13953
+01_Fermentation	Pyruvate Fermentation	K13954
+01_Fermentation	Pyruvate Fermentation	K13980
+01_Fermentation	Pyruvate Fermentation	K01782
+01_Fermentation	Pyruvate Fermentation	K01825
+01_Fermentation	Pyruvate Fermentation	K07514
+01_Fermentation	Pyruvate Fermentation	K07516
+01_Fermentation	Pyruvate Fermentation	K07547
+01_Fermentation	Pyruvate Fermentation	K07548
+01_Fermentation	Pyruvate Fermentation	K08683
+01_Fermentation	Pyruvate Fermentation	K10527
+01_Fermentation	Pyruvate Fermentation	K12405
+01_Fermentation	Pyruvate Fermentation	K13497
+01_Fermentation	Pyruvate Fermentation	K13501
+01_Fermentation	Pyruvate Fermentation	K13503
+01_Fermentation	Pyruvate Fermentation	K02372
+01_Fermentation	Pyruvate Fermentation	K02509
+01_Fermentation	Pyruvate Fermentation	K05554
+01_Fermentation	Pyruvate Fermentation	K07534
+01_Fermentation	Pyruvate Fermentation	K07546
+01_Fermentation	Pyruvate Fermentation	K08299
+01_Fermentation	Pyruvate Fermentation	K09483
+01_Fermentation	Pyruvate Fermentation	K10703
+01_Fermentation	Pyruvate Fermentation	K11336
+01_Fermentation	Pyruvate Fermentation	K01006
+01_Fermentation	Pyruvate Fermentation	K01007
+01_Fermentation	Pyruvate Fermentation	K00001
+01_Fermentation	Pyruvate Fermentation	K00640
+01_Fermentation	Pyruvate Fermentation	K13598
+01_Fermentation	Pyruvate Fermentation	K00625
+01_Fermentation	Pyruvate Fermentation	K01039
+01_Fermentation	Pyruvate Fermentation	K01001
+01_Fermentation	Pyruvate Fermentation	K01573
+01_Fermentation	Pyruvate Fermentation	K00022
+01_Fermentation	Pyruvate Fermentation	K02472
+01_Fermentation	Pyruvate Fermentation	K02474
+01_Fermentation	Pyruvate Fermentation	K05556
+01_Fermentation	Pyruvate Fermentation	K06607
+01_Fermentation	Pyruvate Fermentation	K07535
+01_Fermentation	Pyruvate Fermentation	K07538
+01_Fermentation	Pyruvate Fermentation	K08322
+01_Fermentation	Pyruvate Fermentation	K10251
+01_Fermentation	Pyruvate Fermentation	K10978
+01_Fermentation	Pyruvate Fermentation	K11150
+01_Fermentation	Pyruvate Fermentation	K11151
+01_Fermentation	Pyruvate Fermentation	K11152
+01_Fermentation	Pyruvate Fermentation	K11153
+01_Fermentation	Pyruvate Fermentation	K11154
+01_Fermentation	Pyruvate Fermentation	K11161
+01_Fermentation	Pyruvate Fermentation	K11162
+01_Fermentation	Pyruvate Fermentation	K11539
+01_Fermentation	Pyruvate Fermentation	K12420
+01_Fermentation	Pyruvate Fermentation	K12451
+01_Fermentation	Pyruvate Fermentation	K13015
+01_Fermentation	Pyruvate Fermentation	K13016
+01_Fermentation	Pyruvate Fermentation	K13020
+01_Fermentation	Pyruvate Fermentation	K13548
+01_Fermentation	Pyruvate Fermentation	K13574
+01_Fermentation	Pyruvate Fermentation	K14248
+01_Fermentation	Pyruvate Fermentation	K14465
+01_Fermentation	Pyruvate Fermentation	K14633
+01_Fermentation	Pyruvate Fermentation	K01658
+01_Fermentation	Pyruvate Fermentation	K00248
+01_Fermentation	Pyruvate Fermentation	K00190
+01_Fermentation	Pyruvate Fermentation	K00928
+01_Fermentation	Pyruvate Fermentation	K00061
+01_Fermentation	Pyruvate Fermentation	K00171
+01_Fermentation	Pyruvate Fermentation	K00170
+01_Fermentation	Pyruvate Fermentation	K00169
+01_Fermentation	Pyruvate Fermentation	K14085
+01_Fermentation	Pyruvate Fermentation	K01006
+01_Fermentation	Pyruvate Fermentation	K01007
+01_Fermentation	Pyruvate Fermentation	K00121
+01_Fermentation	Pyruvate Fermentation	K01782
+01_Fermentation	Pyruvate Fermentation	K13497
+01_Fermentation	Pyruvate Fermentation	K04073
+01_Fermentation	Pyruvate Fermentation	K04072
+01_Fermentation	Pyruvate Fermentation	K01825
+01_Fermentation	Pyruvate Fermentation	K13501
+01_Fermentation	Pyruvate Fermentation	K11440
+01_Fermentation	Pyruvate Fermentation	K07514
+01_Fermentation	Pyruvate Fermentation	K13503
+01_Fermentation	Pyruvate Fermentation	K13951
+01_Fermentation	Pyruvate Fermentation	K07516
+01_Fermentation	Pyruvate Fermentation	K02372
+01_Fermentation	Pyruvate Fermentation	K13952
+01_Fermentation	Pyruvate Fermentation	K07547
+01_Fermentation	Pyruvate Fermentation	K02509
+01_Fermentation	Pyruvate Fermentation	K13953
+01_Fermentation	Pyruvate Fermentation	K07548
+01_Fermentation	Pyruvate Fermentation	K05554
+01_Fermentation	Pyruvate Fermentation	K13954
+01_Fermentation	Pyruvate Fermentation	K08683
+01_Fermentation	Pyruvate Fermentation	K07534
+01_Fermentation	Pyruvate Fermentation	K13980
+01_Fermentation	Pyruvate Fermentation	K10527
+01_Fermentation	Pyruvate Fermentation	K07546
+01_Fermentation	Pyruvate Fermentation	K12405
+01_Fermentation	Pyruvate Fermentation	K08299
+01_Fermentation	Pyruvate Fermentation	K09483
+01_Fermentation	Pyruvate Fermentation	K10703
+01_Fermentation	Pyruvate Fermentation	K11336
+01_Fermentation	Pyruvate Fermentation	K00169
+01_Fermentation	Pyruvate Fermentation	K00170
+01_Fermentation	Pyruvate Fermentation	K00171
+01_Fermentation	Pyruvate Fermentation	K02472
+01_Fermentation	Pyruvate Fermentation	K02474
+01_Fermentation	Pyruvate Fermentation	K05556
+01_Fermentation	Pyruvate Fermentation	K06607
+01_Fermentation	Pyruvate Fermentation	K07535
+01_Fermentation	Pyruvate Fermentation	K07538
+01_Fermentation	Pyruvate Fermentation	K08322
+01_Fermentation	Pyruvate Fermentation	K10251
+01_Fermentation	Pyruvate Fermentation	K10978
+01_Fermentation	Pyruvate Fermentation	K11150
+01_Fermentation	Pyruvate Fermentation	K11151
+01_Fermentation	Pyruvate Fermentation	K11152
+01_Fermentation	Pyruvate Fermentation	K11153
+01_Fermentation	Pyruvate Fermentation	K11154
+01_Fermentation	Pyruvate Fermentation	K11161
+01_Fermentation	Pyruvate Fermentation	K11162
+01_Fermentation	Pyruvate Fermentation	K11539
+01_Fermentation	Pyruvate Fermentation	K12420
+01_Fermentation	Pyruvate Fermentation	K12451
+01_Fermentation	Pyruvate Fermentation	K13015
+01_Fermentation	Pyruvate Fermentation	K13016
+01_Fermentation	Pyruvate Fermentation	K13020
+01_Fermentation	Pyruvate Fermentation	K13548
+01_Fermentation	Pyruvate Fermentation	K13574
+01_Fermentation	Pyruvate Fermentation	K14248
+01_Fermentation	Pyruvate Fermentation	K14465
+01_Fermentation	Pyruvate Fermentation	K14633
+01_Fermentation	Pyruvate Fermentation	K00625
+01_Fermentation	Pyruvate Fermentation	K01039
+01_Fermentation	Pyruvate Fermentation	K01001
+01_Fermentation	Pyruvate Fermentation	K01573
+01_Fermentation	Pyruvate Fermentation	K00132
+01_Fermentation	Pyruvate Fermentation	K00001
+01_Fermentation	Pyruvate Fermentation	K00022
+01_Fermentation	Pyruvate Fermentation	K01658
+01_Fermentation	Pyruvate Fermentation	K00248
+01_Fermentation	Pyruvate Fermentation	K00061
+01_Fermentation	Pyruvate Fermentation	K14085
+01_Fermentation	Pyruvate Fermentation	K00132
+01_Fermentation	Pyruvate Fermentation	K00001
+01_Fermentation	Pyruvate Fermentation	K00625
+01_Fermentation	Pyruvate Fermentation	K04073
+01_Fermentation	Pyruvate Fermentation	K00121
+01_Fermentation	Pyruvate Fermentation	K04072
+01_Fermentation	Pyruvate Fermentation	K11440
+01_Fermentation	Pyruvate Fermentation	K13951
+01_Fermentation	Pyruvate Fermentation	K13952
+01_Fermentation	Pyruvate Fermentation	K13953
+01_Fermentation	Pyruvate Fermentation	K13954
+01_Fermentation	Pyruvate Fermentation	K13980
+01_Fermentation	Pyruvate Fermentation	K01006
+01_Fermentation	Pyruvate Fermentation	K01007
+01_Fermentation	Pyruvate Fermentation	K01782
+01_Fermentation	Pyruvate Fermentation	K01825
+01_Fermentation	Pyruvate Fermentation	K07514
+01_Fermentation	Pyruvate Fermentation	K07516
+01_Fermentation	Pyruvate Fermentation	K07547
+01_Fermentation	Pyruvate Fermentation	K07548
+01_Fermentation	Pyruvate Fermentation	K08683
+01_Fermentation	Pyruvate Fermentation	K10527
+01_Fermentation	Pyruvate Fermentation	K12405
+01_Fermentation	Pyruvate Fermentation	K13497
+01_Fermentation	Pyruvate Fermentation	K13501
+01_Fermentation	Pyruvate Fermentation	K13503
+01_Fermentation	Pyruvate Fermentation	K02372
+01_Fermentation	Pyruvate Fermentation	K02509
+01_Fermentation	Pyruvate Fermentation	K05554
+01_Fermentation	Pyruvate Fermentation	K07534
+01_Fermentation	Pyruvate Fermentation	K07546
+01_Fermentation	Pyruvate Fermentation	K08299
+01_Fermentation	Pyruvate Fermentation	K09483
+01_Fermentation	Pyruvate Fermentation	K10703
+01_Fermentation	Pyruvate Fermentation	K11336
+01_Fermentation	Pyruvate Fermentation	K01039
+01_Fermentation	Pyruvate Fermentation	K01001
+01_Fermentation	Pyruvate Fermentation	K01573
+01_Fermentation	Pyruvate Fermentation	K00022
+01_Fermentation	Pyruvate Fermentation	K01658
+01_Fermentation	Pyruvate Fermentation	K00248
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K01619
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K00132
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K00120
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K00155
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K00224
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K00448
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K00449
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K00465
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K00480
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K00492
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K00517
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K00599
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K03384
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K04099
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K04100
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K04101
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K04102
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K07519
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K11943
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K11944
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K11945
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K11946
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K11947
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K11948
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K11949
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K14578
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K14579
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K14580
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K14581
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K14582
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K14599
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K14600
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K14601
+08_Hydrocarbon degradation	Polycyclic aromatic hydrocarbon degradation	K14602
+08_Hydrocarbon degradation	Hydrocarbon degradation	K14603
+08_Hydrocarbon degradation	Hydrocarbon degradation	K00141
+08_Hydrocarbon degradation	Hydrocarbon degradation	K03379
+08_Hydrocarbon degradation	Hydrocarbon degradation	K00128
+08_Hydrocarbon degradation	Hydrocarbon degradation	K00149
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K04110
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K05549
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K07824
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K01586
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K01572
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K00252
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K12526
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K01590
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K05550
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K05711
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K00451
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K01555
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K01800
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K01781
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K15054
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K01576
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K05712
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K00450
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K01557
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K05709
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K05708
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K04102
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K00023
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K00481
+08_Hydrocarbon degradation	Aromatic carboxylic acid degradation	K10217
+08_Hydrocarbon degradation	BTEX and related aromatics degradation	K10217
+08_Hydrocarbon degradation	BTEX and related aromatics degradation	K05823
+08_Hydrocarbon degradation	BTEX and related aromatics degradation	K01452
+08_Hydrocarbon degradation	BTEX and related aromatics degradation	K01473
+08_Hydrocarbon degradation	BTEX and related aromatics degradation	K07546
+08_Hydrocarbon degradation	BTEX and related aromatics degradation	K01856
+08_Hydrocarbon degradation	BTEX and related aromatics degradation	K05797
+08_Hydrocarbon degradation	BTEX and related aromatics degradation	K14269
+08_Hydrocarbon degradation	BTEX and related aromatics degradation	K00141
+08_Hydrocarbon degradation	Chlorinated aromatics degradation	K01617
+08_Hydrocarbon degradation	Chlorinated aromatics degradation	K06912
+08_Hydrocarbon degradation	Chlorinated aromatics degradation	K10676
+08_Hydrocarbon degradation	Heterocyclic aromatics degradation	K10676
+08_Hydrocarbon degradation	Nitoaromatics degradation	K04098
+08_Hydrocarbon degradation	Nitoaromatics degradation	K00452
+08_Hydrocarbon degradation	Nitoaromatics degradation	K01721
+08_Hydrocarbon degradation	Nitoaromatics degradation	K00492
+08_Hydrocarbon degradation	Other aromatics degradation	K11066
+08_Hydrocarbon degradation	Other aromatics degradation	K01426
+08_Hydrocarbon degradation	Other aromatics degradation	K00055
+08_Hydrocarbon degradation	Other aromatics degradation	K03381
+08_Hydrocarbon degradation	Other aromatics degradation	K00446
+08_Hydrocarbon degradation	Other aromatics degradation	K00141
+08_Hydrocarbon degradation	Other aromatics degradation	K01501
+08_Hydrocarbon degradation	Other aromatics degradation	K00448
+08_Hydrocarbon degradation	Other aromatics degradation	K03380
+08_Hydrocarbon degradation	Polycyclic aromatics degradation	K04099
+08_Hydrocarbon degradation	Polycyclic aromatics degradation	K08689
+08_Hydrocarbon degradation	Polycyclic aromatics degradation	K13185
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K10222
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00692
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K12930
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00693
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03587
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00735
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03663
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00744
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K13492
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03692
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00753
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K13495
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K09480
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K13679
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00705
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K01196
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00706
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K05341
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00709
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00710
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03278
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K04628
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03715
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00689
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03280
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00716
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K07633
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00717
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K12245
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00719
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00691
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00720
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K06617
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K14464
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K14596
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00688
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00726
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00727
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00728
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00729
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K07151
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00694
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K10999
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K05364
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K12555
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00695
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03845
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03847
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K10812
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00696
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K07432
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K07441
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00738
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00739
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00740
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00741
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00697
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00742
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03429
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00724
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00698
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00699
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00748
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00749
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K11820
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K13748
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K08235
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K14504
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K13677
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00703
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K08236
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00752
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K05947
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00704
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K07966
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K07634
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03279
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00722
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00743
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00721
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00733
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K08256
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K13068
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K05365
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K13692
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00731
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03843
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00732
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K07967
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K05948
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03842
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K05841
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K13263
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K10757
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00725
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K01663
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K02501
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03813
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03815
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K07557
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K11020
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K11023
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K11044
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K11385
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K11386
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K11387
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K11702
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K11714
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K13554
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K08238
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K13494
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00785
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03369
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03373
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03375
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03376
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K06612
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K06613
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K06616
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K02369
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K02370
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K02367
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K12248
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K07969
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03714
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K06615
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00779
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03691
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K02366
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K02368
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00747
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K13499
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K13500
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K02563
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K10231
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K13658
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K13657
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K07968
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00765
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K13497
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00770
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00771
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00772
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K06614
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K12247
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00778
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03479
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K00780
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03368
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K03494
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K02446
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase	K14501
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K00709
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K13648
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K06611
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K00718
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K14434
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K00693
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K00746
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K00700
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K00750
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K13269
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K00712
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K05342
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K00690
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K13499
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K03857
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K15533
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K03419
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K03928
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K05972
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K13333
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K08965
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K12312
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K08966
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K00702
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01192
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K07407
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01084
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01177
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01233
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01184
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01236
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K11331
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01186
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K12316
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01188
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K12111
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K09510
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01189
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K12505
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01237
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K12357
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K13671
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K12702
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K05349
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K07406
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K12308
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01205
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01219
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01224
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01204
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K12930
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K12939
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01208
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01215
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K09880
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K05988
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K12695
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01183
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K13381
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01185
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K13915
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K12317
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K05350
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01190
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K12309
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01191
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K12311
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01193
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01196
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01178
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K12047
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01195
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01197
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01198
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01199
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01179
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K05989
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01200
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01201
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01202
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01206
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01207
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K12373
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K14459
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01209
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01210
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K08254
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01180
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01212
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01213
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01214
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01216
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01217
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K05990
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01218
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01181
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K03332
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K05546
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01220
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01222
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01223
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01225
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01176
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K07405
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01182
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01203
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K08257
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K12693
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01228
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01229
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01230
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K05991
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01231
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K15538
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K13031
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K05992
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K13032
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K15924
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01232
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01234
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01235
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K15531
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K15855
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01439
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01458
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01721
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01838
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase	K01840
+09_Carbohydrate Active enzyme - CAZy	Polysaccharide lyase	K02554
+09_Carbohydrate Active enzyme - CAZy	Polysaccharide lyase	K01687
+09_Carbohydrate Active enzyme - CAZy	Polysaccharide lyase	K01727
+09_Carbohydrate Active enzyme - CAZy	Polysaccharide lyase	K10677
+09_Carbohydrate Active enzyme - CAZy	Polysaccharide lyase	K01728
+09_Carbohydrate Active enzyme - CAZy	Polysaccharide lyase	K01052
+09_Carbohydrate Active enzyme - CAZy	Polysaccharide lyase	K12298
+09_Carbohydrate Active enzyme - CAZy	Polysaccharide lyase	K10759
+09_Carbohydrate Active enzyme - CAZy	Polysaccharide lyase	K01046
+09_Carbohydrate Active enzyme - CAZy	Polysaccharide lyase	K13534
+09_Carbohydrate Active enzyme - CAZy	Polysaccharide lyase	K13616
+09_Carbohydrate Active enzyme - CAZy	Polysaccharide lyase	K14073
+09_Carbohydrate Active enzyme - CAZy	Polysaccharide lyase	K01732
+09_Carbohydrate Active enzyme - CAZy	Polysaccharide lyase	K05359
+09_Carbohydrate Active enzyme - CAZy	Carbohydrate esterase	K01036
+09_Carbohydrate Active enzyme - CAZy	Carbohydrate esterase	K01051
+09_Carbohydrate Active enzyme - CAZy	Carbohydrate esterase	K05968
+09_Carbohydrate Active enzyme - CAZy	Carbohydrate esterase	K13278
+09_Carbohydrate Active enzyme - CAZy	Carbohydrate esterase	K01049
+09_Carbohydrate Active enzyme - CAZy	Carbohydrate esterase	K01044
+09_Carbohydrate Active enzyme - CAZy	Carbohydrate esterase	K03927
+09_Carbohydrate Active enzyme - CAZy	Carbohydrate esterase	K14452
+09_Carbohydrate Active enzyme - CAZy	Carbohydrate esterase	K05972
+09_Carbohydrate Active enzyme - CAZy	Carbohydrate esterase	K13333
+09_Carbohydrate Active enzyme - CAZy	Carbohydrate esterase	K13334
+09_Carbohydrate Active enzyme - CAZy	Carbohydrate esterase	K14621
+09_Carbohydrate Active enzyme - CAZy	Carbohydrate esterase	K09252
+09_Carbohydrate Active enzyme - CAZy	Carbohydrate esterase	K01196
+09_Carbohydrate Active enzyme - CAZy	Carbohydrate esterase	K01215
+09_Carbohydrate Active enzyme - CAZy	Carbohydrate esterase	K01438
+09_Carbohydrate Active enzyme - CAZy	Carbohydrate esterase	K01286
+09_Carbohydrate Active enzyme - CAZy	Carbohydrate esterase	K01437
+09_Carbohydrate Active enzyme - CAZy	Carbohydrate esterase	K13714
+09_Carbohydrate Active enzyme - CAZy	Carbohydrate esterase	K01426
+09_Carbohydrate Active enzyme - CAZy	Carbohydrate esterase	K01687
+11_Nitrogen cycle	Denitrification	K00370
+11_Nitrogen cycle	Denitrification	K00371
+11_Nitrogen cycle	Denitrification	K00372
+11_Nitrogen cycle	Assimilatory nitrate reduction	K10534
+11_Nitrogen cycle	Assimilatory nitrate reduction	K00360
+11_Nitrogen cycle	Assimilatory nitrate reduction	K15875
+11_Nitrogen cycle	Denitrification	K08345
+11_Nitrogen cycle	Denitrification	K00373
+11_Nitrogen cycle	Denitrification	K00374
+11_Nitrogen cycle	Denitrification	K08345
+11_Nitrogen cycle	Denitrification	K08346
+11_Nitrogen cycle	Denitrification	K08347
+11_Nitrogen cycle	Denitrification	K08361
+11_Nitrogen cycle	Denitrification	K00372
+11_Nitrogen cycle	Denitrification	K02567
+11_Nitrogen cycle	Denitrification	K02568
+11_Nitrogen cycle	Denitrification	K15878
+11_Nitrogen cycle	Denitrification	K15879
+11_Nitrogen cycle	Denitrification	K00368
+11_Nitrogen cycle	Denitrification	K15864
+11_Nitrogen cycle	Denitrification	K04561
+11_Nitrogen cycle	Denitrification	K02305
+11_Nitrogen cycle	Denitrification	K00376
+11_Nitrogen cycle	Dissimilatory nitrate reduction	K03385
+11_Nitrogen cycle	Dissimilatory nitrate reduction	K04013
+11_Nitrogen cycle	Dissimilatory nitrate reduction	K04014
+11_Nitrogen cycle	Dissimilatory nitrate reduction	K04015
+11_Nitrogen cycle	Assimilatory nitrate reduction	K00362
+11_Nitrogen cycle	Assimilatory nitrate reduction	K00366
+11_Nitrogen cycle	Assimilatory nitrate reduction	K00363
+11_Nitrogen cycle	Hydroxylamine reduction	K05601
+11_Nitrogen cycle	Hydroxylamine reduction	K15864
+11_Nitrogen cycle	Nitrogen Fixation	K02588
+11_Nitrogen cycle	Nitrogen Fixation	K02591
+11_Nitrogen cycle	Nitrogen Fixation	K02586
+11_Nitrogen cycle	Nitrogen Fixation	K00531
+11_Nitrogen cycle	Nitrogen Fixation	K02595
+11_Nitrogen cycle	Ammonia assimilation	K00260
+11_Nitrogen cycle	Ammonia assimilation	K00261
+11_Nitrogen cycle	Ammonia assimilation	K00262
+11_Nitrogen cycle	Ammonia assimilation	K01915
+11_Nitrogen cycle	Ammonia assimilation	K15371
+11_Nitrogen cycle	Ammonia assimilation	K00265
+11_Nitrogen cycle	Ammonia assimilation	K00266
+11_Nitrogen cycle	Ammonia assimilation	K00264
+11_Nitrogen cycle	Ammonia assimilation	K05597
+11_Nitrogen cycle	Ammonia assimilation	K01425
+11_Nitrogen cycle	Ammonia assimilation	K05597
+11_Nitrogen cycle	Ammonia assimilation	K01953
+11_Nitrogen cycle	Ammonia assimilation	K00284
+11_Nitrogen cycle	Ammonia assimilation	K00264
+11_Nitrogen cycle	Nitrification (aerobic ammonia oxydation, bacterial and archea)	K10944
+11_Nitrogen cycle	Nitrification (aerobic ammonia oxydation, bacterial and archea)	K10945
+11_Nitrogen cycle	Nitrification (aerobic ammonia oxydation, bacterial and archea)	K10946
+11_Nitrogen cycle	Nitrification (aerobic ammonia oxydation, bacterial and archea)	K10535
+11_Nitrogen cycle	Nitrification	K15905
+11_Nitrogen cycle	Nitrification	K15906
+13_Hydrogen metabolism	Hydrogen oxidation aerobic	K06281
+13_Hydrogen metabolism	Hydrogen oxidation aerobic	K06282
+13_Hydrogen metabolism	Hydrogen oxidation aerobic	K00436
+13_Hydrogen metabolism	Hydrogen production	K00436
+13_Hydrogen metabolism	Hydrogen production	K00532
+13_Hydrogen metabolism	Hydrogen production	K00533
+13_Hydrogen metabolism	Hydrogen production	K00534
+13_Hydrogen metabolism	Hydrogen production	K06441
+13_Hydrogen metabolism	Hydrogen production	K00190
+13_Hydrogen metabolism	Hydrogen production	K00192
+13_Hydrogen metabolism	Hydrogen production	K00198
+13_Hydrogen metabolism	Hydrogen production	K03518
+13_Hydrogen metabolism	Hydrogen production	K03519
+13_Hydrogen metabolism	Hydrogen production	K03520
+13_Hydrogen metabolism	Hydrogen production	K14138
+13_Hydrogen metabolism	Hydrogen production	K06281
+13_Hydrogen metabolism	Hydrogen production	K06282
+13_Hydrogen metabolism	Hydrogen production VII (chlorophyta, cyanobacteria)	K00355
+13_Hydrogen metabolism	Hydrogen production VII (chlorophyta, cyanobacteria)	K00532
+13_Hydrogen metabolism	Hydrogen production VII (chlorophyta, cyanobacteria)	K00533
+13_Hydrogen metabolism	Hydrogen production VII (chlorophyta, cyanobacteria)	K00534
+13_Hydrogen metabolism	Hydrogen production VII (chlorophyta, cyanobacteria)	K06441
+13_Hydrogen metabolism	Hydrogen production VII (chlorophyta, cyanobacteria)	K02636
+14_Methanogenesis	From methanol	K14080
+14_Methanogenesis	From methanol	K04480
+14_Methanogenesis	From methanol	K14081
+14_Methanogenesis	From methanol	K00399
+14_Methanogenesis	From methanol	K00401
+14_Methanogenesis	From methanol	K00402
+14_Methanogenesis	From methanol	K03388
+14_Methanogenesis	From methanol	K03389
+14_Methanogenesis	From methanol	K03390
+14_Methanogenesis	From acetate	K00925
+14_Methanogenesis	From acetate	K00625
+14_Methanogenesis	From acetate	K13788
+14_Methanogenesis	From acetate	K01895
+14_Methanogenesis	From acetate	K00192
+14_Methanogenesis	From acetate	K00193
+14_Methanogenesis	From acetate	K00194
+14_Methanogenesis	From acetate	K00195
+14_Methanogenesis	From acetate	K00197
+14_Methanogenesis	From acetate	K14138
+14_Methanogenesis	From acetate	K00190
+14_Methanogenesis	From acetate	K00577
+14_Methanogenesis	From acetate	K00578
+14_Methanogenesis	From acetate	K00579
+14_Methanogenesis	From acetate	K00580
+14_Methanogenesis	From acetate	K00581
+14_Methanogenesis	From acetate	K00583
+14_Methanogenesis	From acetate	K00584
+14_Methanogenesis	From acetate	K00399
+14_Methanogenesis	From acetate	K00402
+14_Methanogenesis	From acetate	K03388
+14_Methanogenesis	From acetate	K03389
+14_Methanogenesis	From acetate	K03390
+14_Methanogenesis	From acetate	K00401
+14_Methanogenesis	From acetate	K00582
+14_Methanogenesis	From trimethylamine	K14082
+14_Methanogenesis	From trimethylamine	K14083
+14_Methanogenesis	From trimethylamine	K14084
+14_Methanogenesis	From trimethylamine	K00399
+14_Methanogenesis	From trimethylamine	K00401
+14_Methanogenesis	From trimethylamine	K00402
+14_Methanogenesis	From trimethylamine	K03388
+14_Methanogenesis	From trimethylamine	K03389
+14_Methanogenesis	From trimethylamine	K03390
+14_Methanogenesis	From dimethylamine	K14082
+14_Methanogenesis	From dimethylamine	K16178
+14_Methanogenesis	From dimethylamine	K16179
+14_Methanogenesis	From dimethylamine	K00399
+14_Methanogenesis	From dimethylamine	K00401
+14_Methanogenesis	From dimethylamine	K00402
+14_Methanogenesis	From dimethylamine	K03388
+14_Methanogenesis	From dimethylamine	K03389
+14_Methanogenesis	From dimethylamine	K03390
+14_Methanogenesis	From formate	K00123
+14_Methanogenesis	From formate	K00205
+14_Methanogenesis	From formate	K00442
+14_Methanogenesis	From formate	K00399
+14_Methanogenesis	From formate	K00125
+14_Methanogenesis	From formate	K00124
+14_Methanogenesis	From formate	K00126
+14_Methanogenesis	From formate	K00127
+14_Methanogenesis	From formate	K00200
+14_Methanogenesis	From formate	K00201
+14_Methanogenesis	From formate	K00202
+14_Methanogenesis	From formate	K00203
+14_Methanogenesis	From formate	K00204
+14_Methanogenesis	From formate	K00441
+14_Methanogenesis	From formate	K11261
+14_Methanogenesis	From formate	K11260
+14_Methanogenesis	From formate	K00672
+14_Methanogenesis	From formate	K01499
+14_Methanogenesis	From formate	K00319
+14_Methanogenesis	From formate	K13942
+14_Methanogenesis	From formate	K00320
+14_Methanogenesis	From formate	K00440
+14_Methanogenesis	From formate	K00443
+14_Methanogenesis	From formate	K00577
+14_Methanogenesis	From formate	K00579
+14_Methanogenesis	From formate	K00580
+14_Methanogenesis	From formate	K00581
+14_Methanogenesis	From formate	K00582
+14_Methanogenesis	From formate	K00583
+14_Methanogenesis	From formate	K00584
+14_Methanogenesis	From formate	K00401
+14_Methanogenesis	From formate	K00402
+14_Methanogenesis	From formate	K03388
+14_Methanogenesis	From formate	K03389
+14_Methanogenesis	From formate	K03390
+14_Methanogenesis	From formate	K00578
+14_Methanogenesis	From methylamine	K14082
+14_Methanogenesis	From methylamine	K16176
+14_Methanogenesis	From methylamine	K16177
+14_Methanogenesis	From methylamine	K00399
+14_Methanogenesis	From methylamine	K00401
+14_Methanogenesis	From methylamine	K00402
+14_Methanogenesis	From methylamine	K03388
+14_Methanogenesis	From methylamine	K03389
+14_Methanogenesis	From methylamine	K03390
+14_Methanogenesis	From CO2	K00200
+14_Methanogenesis	From CO2	K00201
+14_Methanogenesis	From CO2	K00202
+14_Methanogenesis	From CO2	K00203
+14_Methanogenesis	From CO2	K00204
+14_Methanogenesis	From CO2	K00205
+14_Methanogenesis	From CO2	K11261
+14_Methanogenesis	From CO2	K11260
+14_Methanogenesis	From CO2	K00672
+14_Methanogenesis	From CO2	K01499
+14_Methanogenesis	From CO2	K00319
+14_Methanogenesis	From CO2	K13942
+14_Methanogenesis	From CO2	K00320
+14_Methanogenesis	From CO2	K00440
+14_Methanogenesis	From CO2	K00441
+14_Methanogenesis	From CO2	K00442
+14_Methanogenesis	From CO2	K00443
+14_Methanogenesis	From CO2	K00577
+14_Methanogenesis	From CO2	K00578
+14_Methanogenesis	From CO2	K00579
+14_Methanogenesis	From CO2	K00580
+14_Methanogenesis	From CO2	K00581
+14_Methanogenesis	From CO2	K00582
+14_Methanogenesis	From CO2	K00583
+14_Methanogenesis	From CO2	K00584
+14_Methanogenesis	From CO2	K00399
+14_Methanogenesis	From CO2	K00401
+14_Methanogenesis	From CO2	K00402
+14_Methanogenesis	From CO2	K03388
+14_Methanogenesis	From CO2	K03389
+14_Methanogenesis	From CO2	K03390
+15_Methylotrophy	Methane oxidation to cO2	K16154
+15_Methylotrophy	Methane oxidation to cO2	K16155
+15_Methylotrophy	Methane oxidation to cO2	K16156
+15_Methylotrophy	Methane oxidation to cO2	K16157
+15_Methylotrophy	Methane oxidation to cO2	K16158
+15_Methylotrophy	Methane oxidation to cO2	K16159
+15_Methylotrophy	Methane oxidation to cO2	K16160
+15_Methylotrophy	Methane oxidation to cO2	K16161
+15_Methylotrophy	Methane oxidation to cO2	K16162
+15_Methylotrophy	Methane oxidation to cO2	K03781
+15_Methylotrophy	Methane oxidation to cO2	K03782
+15_Methylotrophy	Methane oxidation to cO2	K00430
+15_Methylotrophy	Methane oxidation to cO2	K11188
+15_Methylotrophy	Methane oxidation to cO2	K00093
+15_Methylotrophy	Methane oxidation to cO2	K14028
+15_Methylotrophy	Methane oxidation to cO2	K14029
+15_Methylotrophy	Methane oxidation to cO2	K00148
+15_Methylotrophy	Methane oxidation to cO2	K00122
+15_Methylotrophy	Methane oxidation to cO2	K00123
+15_Methylotrophy	Methane oxidation to cO2	K00124
+15_Methylotrophy	Methane oxidation to cO2	K00125
+15_Methylotrophy	Methane oxidation to cO2	K00126
+15_Methylotrophy	Methane oxidation to cO2	K00127
+15_Methylotrophy	Methane oxidation to cO2	K08348
+15_Methylotrophy	Methane oxidation to cO2	K08349
+15_Methylotrophy	Methane oxidation to cO2	K08350
+15_Methylotrophy	Methanol oxidation to formaldehyde	K14028
+15_Methylotrophy	Methanol oxidation to formaldehyde	K16254
+15_Methylotrophy	Methanol oxidation to formaldehyde	K16255
+15_Methylotrophy	Methanol oxidation to formaldehyde	K14029
+15_Methylotrophy	Methanol oxidation to formaldehyde	K16256
+15_Methylotrophy	Methanol oxidation to formaldehyde	K16257
+15_Methylotrophy	Methanol oxidation to formaldehyde	K16258
+15_Methylotrophy	Methanol oxidation to formaldehyde	K16259
+15_Methylotrophy	Methanol oxidation to formaldehyde	K16260
+15_Methylotrophy	Methylamine to formaldehyde	K08685
+15_Methylotrophy	Methylamine to formaldehyde	K15228
+15_Methylotrophy	Methylamine to formaldehyde	K15229
+15_Methylotrophy	Formaldehyde oxidation (h4mpt pathway)	K10713
+15_Methylotrophy	Formaldehyde oxidation (h4mpt pathway)	K10714
+15_Methylotrophy	Formaldehyde oxidation (h4mpt pathway)	K01499
+15_Methylotrophy	Formaldehyde oxidation (h4mpt pathway)	K00672
+15_Methylotrophy	Formaldehyde oxidation (h4mpt pathway)	K00200
+15_Methylotrophy	Formaldehyde oxidation (h4mpt pathway)	K00201
+15_Methylotrophy	Formaldehyde oxidation (h4mpt pathway)	K00202
+15_Methylotrophy	Formaldehyde oxidation (tetrahydrofolate pathway)	K00288
+15_Methylotrophy	Formaldehyde oxidation (tetrahydrofolate pathway)	K01938
+15_Methylotrophy	Formaldehyde oxidation (tetrahydrofolate pathway)	K13402
+15_Methylotrophy	Formaldehyde oxidation (tetrahydrofolate pathway)	K01491
+15_Methylotrophy	Formaldehyde oxidation (tetrahydrofolate pathway)	K13403
+15_Methylotrophy	Formaldehyde oxidation (tetrahydrofolate pathway)	K00123
+15_Methylotrophy	Formaldehyde oxidation (tetrahydrofolate pathway)	K00124
+15_Methylotrophy	Formaldehyde oxidation (tetrahydrofolate pathway)	K00126
+15_Methylotrophy	Formaldehyde oxidation (glutathione-dependent)	K03396
+15_Methylotrophy	Formaldehyde oxidation (glutathione-dependent)	K00121
+15_Methylotrophy	Formaldehyde oxidation (glutathione-dependent)	K01070
+15_Methylotrophy	Formaldehyde oxidation (glutathione-dependent)	K00123
+15_Methylotrophy	Formaldehyde oxidation (glutathione-dependent)	K00124
+15_Methylotrophy	Formaldehyde oxidation (glutathione-dependent)	K00126
+15_Methylotrophy	RuMP pathway for formaldehyde fixation (first two steps are common to both RuMP pathway variants)	K08093
+15_Methylotrophy	RuMP pathway for formaldehyde fixation (first two steps are common to both RuMP pathway variants)	K08094
+15_Methylotrophy	RuMP pathway for formaldehyde fixation (first two steps are common to both RuMP pathway variants)	K00850
+15_Methylotrophy	RuMP pathway for formaldehyde fixation (first two steps are common to both RuMP pathway variants)	K01624
+15_Methylotrophy	RuMP pathway for formaldehyde fixation (first two steps are common to both RuMP pathway variants)	K13810
+15_Methylotrophy	RuMP pathway for formaldehyde fixation (first two steps are common to both RuMP pathway variants)	K00036
+15_Methylotrophy	RuMP pathway for formaldehyde fixation (first two steps are common to both RuMP pathway variants)	K01057
+15_Methylotrophy	RuMP pathway for formaldehyde fixation (first two steps are common to both RuMP pathway variants)	K01625
+15_Methylotrophy	Serine pathway for formaldehyde fixation	K00600
+15_Methylotrophy	Serine pathway for formaldehyde fixation	K00830
+15_Methylotrophy	Serine pathway for formaldehyde fixation	K00050
+15_Methylotrophy	Serine pathway for formaldehyde fixation	K01689
+15_Methylotrophy	Serine pathway for formaldehyde fixation	K01595
+15_Methylotrophy	Serine pathway for formaldehyde fixation	K00024
+15_Methylotrophy	Serine pathway for formaldehyde fixation	K14067
+15_Methylotrophy	Serine pathway for formaldehyde fixation	K08692
+15_Methylotrophy	Serine pathway for formaldehyde fixation	K08691
+15_Methylotrophy	Methane oxydation	K08684
+18_Sulfur compounds metabolism	Chemoautotrophic oxidation of sulfur compounds	K04100
+18_Sulfur compounds metabolism	Chemoautotrophic oxidation of sulfur compounds	K04101
+18_Sulfur compounds metabolism	Chemoautotrophic oxidation of sulfur compounds	K05301
+18_Sulfur compounds metabolism	Chemoautotrophic oxidation of sulfur compounds	K00395
+18_Sulfur compounds metabolism	Chemoautotrophic oxidation of sulfur compounds	K00394
+18_Sulfur compounds metabolism	Chemoautotrophic oxidation of sulfur compounds	K13811
+18_Sulfur compounds metabolism	Chemoautotrophic oxidation of sulfur compounds	K00955
+18_Sulfur compounds metabolism	Chemoautotrophic oxidation of sulfur compounds	K00957
+18_Sulfur compounds metabolism	Chemoautotrophic oxidation of sulfur compounds	K00958
+18_Sulfur compounds metabolism	Chemoautotrophic oxidation of sulfur compounds	K00956
+18_Sulfur compounds metabolism	Sulfate reduction (assimilatory)	K00955
+18_Sulfur compounds metabolism	Sulfate reduction (assimilatory)	K00956
+18_Sulfur compounds metabolism	Sulfate reduction (assimilatory)	K00957
+18_Sulfur compounds metabolism	Sulfate reduction (assimilatory)	K00958
+18_Sulfur compounds metabolism	Sulfate reduction (assimilatory)	K00860
+18_Sulfur compounds metabolism	Sulfate reduction (assimilatory)	K00955
+18_Sulfur compounds metabolism	Sulfate reduction (assimilatory)	K13811
+18_Sulfur compounds metabolism	Sulfate reduction (assimilatory)	K00390
+18_Sulfur compounds metabolism	Sulfate reduction (assimilatory)	K00380
+18_Sulfur compounds metabolism	Sulfate reduction (assimilatory)	K00381
+18_Sulfur compounds metabolism	Sulfate reduction (assimilatory)	K00392
+18_Sulfur compounds metabolism	Sulfate reduction (dissimilatory)	K00955
+18_Sulfur compounds metabolism	Sulfate reduction (dissimilatory)	K00956
+18_Sulfur compounds metabolism	Sulfate reduction (dissimilatory)	K00957
+18_Sulfur compounds metabolism	Sulfate reduction (dissimilatory)	K00958
+18_Sulfur compounds metabolism	Sulfate reduction (dissimilatory)	K00394
+18_Sulfur compounds metabolism	Sulfate reduction (dissimilatory)	K00395
+18_Sulfur compounds metabolism	Sulfate reduction (dissimilatory)	K11180
+18_Sulfur compounds metabolism	Sulfate reduction (dissimilatory)	K11181
+18_Sulfur compounds metabolism	Sulfite oxidation	K05301
+18_Sulfur compounds metabolism	Sulfite oxidation	K00394
+18_Sulfur compounds metabolism	Sulfite oxidation	K00395
+18_Sulfur compounds metabolism	Sulfite oxidation	K00959
+18_Sulfur compounds metabolism	Sulfite oxidation	K00955
+18_Sulfur compounds metabolism	Sulfite oxidation	K00956
+18_Sulfur compounds metabolism	Sulfite oxidation	K00957
+18_Sulfur compounds metabolism	Sulfite oxidation	K00958
+18_Sulfur compounds metabolism	Sulfite oxidation	K00387
+18_Sulfur compounds metabolism	Sulfoacetaldehyde degradation	K03852
+18_Sulfur compounds metabolism	Sulfoacetaldehyde degradation	K00625
+18_Sulfur compounds metabolism	Sulfoacetaldehyde degradation	K15373
+18_Sulfur compounds metabolism	Sulfolactate degradation	K06034
+18_Sulfur compounds metabolism	Sulfolactate degradation	K13039
+18_Sulfur compounds metabolism	Sulfolactate degradation	K03852
+18_Sulfur compounds metabolism	Sulfolactate degradation	K00625
+18_Sulfur compounds metabolism	Sulfolactate degradation	K13788
+18_Sulfur compounds metabolism	Sulfolactate degradation	K00811
+18_Sulfur compounds metabolism	Sulfolactate degradation	K00812
+18_Sulfur compounds metabolism	Sulfolactate degradation	K00813
+18_Sulfur compounds metabolism	Sulfolactate degradation	K11358
+18_Sulfur compounds metabolism	Sulfolactate degradation	K14454
+18_Sulfur compounds metabolism	Sulfolactate degradation	K14455
+18_Sulfur compounds metabolism	Sulfur disproportionation	K00394
+18_Sulfur compounds metabolism	Sulfur disproportionation	K00955
+18_Sulfur compounds metabolism	Sulfur disproportionation	K00956
+18_Sulfur compounds metabolism	Sulfur disproportionation	K00957
+18_Sulfur compounds metabolism	Sulfur disproportionation	K00958
+18_Sulfur compounds metabolism	Thiosulfate disproportionation	K05301
+18_Sulfur compounds metabolism	Thiosulfate disproportionation	K00394
+18_Sulfur compounds metabolism	Thiosulfate disproportionation	K00395
+18_Sulfur compounds metabolism	Thiosulfate disproportionation	K00955
+18_Sulfur compounds metabolism	Thiosulfate disproportionation	K00956
+18_Sulfur compounds metabolism	Thiosulfate disproportionation	K00957
+18_Sulfur compounds metabolism	Thiosulfate disproportionation	K00958
+18_Sulfur compounds metabolism	Thiosulfate disproportionation	K01011
+18_Sulfur compounds metabolism	Thiosulfate disproportionation	K02439
+Phosphate	Alk_phosphatase	Alk_phosphatase
+Phosphate	PAP2	PAP2
+Phosphate	PhnH	PhnH
+Phosphate	Phytase	Phytase
+Phosphate	PP_kinase_C	PP_kinase_C
+Phosphate	Ppx-GppA	Ppx-GppA
