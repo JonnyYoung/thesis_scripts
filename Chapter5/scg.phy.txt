@@ -1,0 +1,169 @@
+        %	    reads	phylum
+-------------------------------------------
+24.915615	    90423	Proteobacteria
+19.539728	    70913	Actinobacteria
+17.913462	    65011	Acidobacteria
+ 7.301670	    26499	Chloroflexi
+ 6.155953	    22341	Verrucomicrobia
+ 4.847665	    17593	Firmicutes
+ 2.288677	     8306	Gemmatimonadetes
+ 1.518529	     5511	Planctomycetes
+ 1.258139	     4566	Candidatus Rokubacteria
+ 1.190079	     4319	Bacteroidetes
+ 0.831871	     3019	Nitrospirae
+ 0.603168	     2189	Cyanobacteria
+ 0.595177	     2160	Armatimonadetes
+ 0.545304	     1979	Thaumarchaeota
+ 0.458231	     1663	Ascomycota
+ 0.369506	     1341	Euryarchaeota
+ 0.206659	      750	Spirochaetes
+ 0.193433	      702	Candidatus Omnitrophica
+ 0.182411	      662	Deinococcus-Thermus
+ 0.153754	      558	Elusimicrobia
+ 0.150448	      546	Basidiomycota
+ 0.123720	      449	Crenarchaeota
+ 0.122066	      443	candidate division Zixibacteria
+ 0.117658	      427	Synergistetes
+ 0.108014	      392	Ignavibacteriae
+ 0.104983	      381	Candidatus Saccharibacteria
+ 0.100850	      366	candidate division NC10
+ 0.096441	      350	Thermotogae
+ 0.085143	      309	Candidatus Bathyarchaeota
+ 0.084041	      305	Lentisphaerae
+ 0.083766	      304	Candidatus Aminicenantes
+ 0.082112	      298	Aquificae
+ 0.082112	      298	Candidatus Tectomicrobia
+ 0.079357	      288	Tenericutes
+ 0.078530	      285	Candidatus Eisenbacteria
+ 0.076326	      277	Chlorophyta
+ 0.070264	      255	Chlorobi
+ 0.063375	      230	Candidatus Kaiserbacteria
+ 0.062549	      227	Chlamydiae
+ 0.052354	      190	Candidatus Dadabacteria
+ 0.047669	      173	Candidatus Uhrbacteria
+ 0.046567	      169	Thermodesulfobacteria
+ 0.045740	      166	Deferribacteres
+ 0.044638	      162	Fusobacteria
+ 0.041883	      152	Nitrospinae
+ 0.039678	      144	Candidatus Latescibacteria
+ 0.037750	      137	Candidatus Levybacteria
+ 0.034719	      126	Candidatus Handelsmanbacteria
+ 0.034443	      125	Candidatus Peregrinibacteria
+ 0.032239	      117	Candidatus Woykebacteria
+ 0.029483	      107	Candidatus Gottesmanbacteria
+ 0.028657	      104	Candidatus Schekmanbacteria
+ 0.028381	      103	Candidatus Cloacimonetes
+ 0.027003	       98	Candidatus Magasanikbacteria
+ 0.026177	       95	Apicomplexa
+ 0.023972	       87	Candidatus Atribacteria
+ 0.023972	       87	Candidatus Woesebacteria
+ 0.023146	       84	Fibrobacteres
+ 0.022319	       81	Candidatus Berkelbacteria
+ 0.022319	       81	Candidatus Roizmanbacteria
+ 0.020941	       76	Candidatus Nomurabacteria
+ 0.020115	       73	Candidatus Doudnabacteria
+ 0.019013	       69	Balneolaeota
+ 0.018737	       68	Kiritimatiellaeota
+ 0.017910	       65	Candidatus Daviesbacteria
+ 0.017910	       65	Candidatus Moranbacteria
+ 0.017635	       64	Calditrichaeota
+ 0.017359	       63	Bacillariophyta
+ 0.017359	       63	Mucoromycota
+ 0.017084	       62	Candidatus Acetothermia
+ 0.015706	       57	candidate division WWE3
+ 0.015155	       55	Candidatus Kryptonia
+ 0.014879	       54	Chrysiogenetes
+ 0.014879	       54	Candidatus Falkowbacteria
+ 0.014053	       51	Candidatus Parcubacteria
+ 0.013502	       49	Candidatus Glassbacteria
+ 0.013502	       49	Candidatus Taylorbacteria
+ 0.012675	       46	Candidatus Desantisbacteria
+ 0.011848	       43	Candidatus Yanofskybacteria
+ 0.011573	       42	Candidatus Sungbacteria
+ 0.011297	       41	Candidatus Amesbacteria
+ 0.011022	       40	Dictyoglomi
+ 0.011022	       40	candidate division KD3-62
+ 0.010746	       39	candidate division WOR-3
+ 0.010471	       38	Candidatus Marinimicrobia
+ 0.010195	       37	Candidatus Curtissbacteria
+ 0.010195	       37	Candidatus Buchananbacteria
+ 0.009920	       36	Candidatus Nealsonbacteria
+ 0.009920	       36	Candidatus Ryanbacteria
+ 0.009644	       35	Caldiserica
+ 0.009644	       35	Candidatus Micrarchaeota
+ 0.008817	       32	candidate division CPR3
+ 0.008817	       32	Candidatus Coatesbacteria
+ 0.008817	       32	Candidatus Fraserbacteria
+ 0.008542	       31	Candidatus Firestonebacteria
+ 0.007991	       29	Candidatus Giovannonibacteria
+ 0.007991	       29	Candidatus Azambacteria
+ 0.007715	       28	Candidatus Riflebacteria
+ 0.007715	       28	Candidatus Komeilibacteria
+ 0.007164	       26	Candidatus Terrybacteria
+ 0.006889	       25	Candidatus Staskawiczbacteria
+ 0.006613	       24	Candidatus Wolfebacteria
+ 0.006613	       24	Candidatus Lindowbacteria
+ 0.006613	       24	Candidatus Zambryskibacteria
+ 0.006338	       23	Candidatus Edwardsbacteria
+ 0.006338	       23	Candidatus Lloydbacteria
+ 0.006062	       22	candidate division Hyd24-12
+ 0.006062	       22	Candidatus Adlerbacteria
+ 0.006062	       22	Candidatus Liptonbacteria
+ 0.005786	       21	Eustigmatophyceae
+ 0.005786	       21	candidate division CPR2
+ 0.005786	       21	Candidatus Thorarchaeota
+ 0.005786	       21	Candidatus Jorgensenbacteria
+ 0.005786	       21	Candidatus Kerfeldbacteria
+ 0.005511	       20	Phaeophyceae
+ 0.005511	       20	Candidatus Wildermuthbacteria
+ 0.005235	       19	Chytridiomycota
+ 0.005235	       19	Chromerida
+ 0.004960	       18	Blastocladiomycota
+ 0.004960	       18	Candidatus Woesearchaeota
+ 0.004960	       18	Candidatus Chisholmbacteria
+ 0.004684	       17	Candidatus Korarchaeota
+ 0.004409	       16	Candidatus Margulisbacteria
+ 0.004409	       16	Candidatus Colwellbacteria
+ 0.004409	       16	Candidatus Spechtbacteria
+ 0.004133	       15	Candidatus Beckwithbacteria
+ 0.004133	       15	Candidatus Kuenenbacteria
+ 0.004133	       15	Zoopagomycota
+ 0.003858	       14	Candidatus Wirthbacteria
+ 0.003582	       13	Candidatus Lokiarchaeota
+ 0.003307	       12	Microsporidia
+ 0.003307	       12	candidate division CPR1
+ 0.003307	       12	Candidatus Pacebacteria
+ 0.003307	       12	Candidatus Harrisonbacteria
+ 0.003031	       11	Candidatus Microgenomates
+ 0.003031	       11	Candidatus Portnoybacteria
+ 0.003031	       11	Candidatus Vogelbacteria
+ 0.002755	       10	Candidatus Collierbacteria
+ 0.002755	       10	Candidatus Abawacabacteria
+ 0.002755	       10	Candidatus Raymondbacteria
+ 0.002755	       10	Candidatus Tagabacteria
+ 0.002755	       10	Candidatus Yonathbacteria
+ 0.002480	        9	Candidatus Nanohaloarchaeota
+ 0.002480	        9	Candidatus Campbellbacteria
+ 0.002480	        9	Candidatus Fischerbacteria
+ 0.002480	        9	Candidatus Blackburnbacteria
+ 0.002204	        8	Neocallimastigomycota
+ 0.001929	        7	Candidatus Wallbacteria
+ 0.001929	        7	Candidatus Niyogibacteria
+ 0.001653	        6	Candidatus Andersenbacteria
+ 0.001378	        5	Candidatus Hydrogenedentes
+ 0.001378	        5	Candidatus Parvarchaeota
+ 0.001378	        5	Candidatus Delongbacteria
+ 0.001378	        5	Candidatus Odinarchaeota
+ 0.001102	        4	Nanoarchaeota
+ 0.001102	        4	Candidatus Shapirobacteria
+ 0.000827	        3	Euglenida
+ 0.000551	        2	Candidatus Aenigmarchaeota
+ 0.000551	        2	Candidatus Veblenbacteria
+ 0.000276	        1	Xanthophyceae
+ 0.000276	        1	Candidatus Gracilibacteria
+ 0.000276	        1	Cryptomycota
+-------------------------------------------
+ 0.017635	       64	Viruses
+ 5.694139	    20665	cannot be assigned to a phylum 
+-------------------------------------------
+ 0.000000	        0	unclassified
